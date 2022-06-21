@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="check">Check</string>
+    <string name="guess_daily">Guess Daily</string>
+    <string name="guess_random">Guess Random</string>
+    <string name="guess_word">Guess Word</string>
+    <string name="guess_daily_desc">Guess against the daily puzzle</string>
+    <string name="guess_random_desc">Guess against a random word</string>
+    <string name="guess_word_desc">Guess against a selected word</string>
+    <string name="enter_seed_number">Enter seed number</string>
+    <string name="enter_your_selected_word">Enter selected word</string>
+    <string name="try_again">Try again</string>
+    <string name="exit_game">Exit game</string>
+    <string name="end_game">End Game</string>
+    <string name="you_lost_game">You are lost game.</string>
+    <string name="congrat">Congratulations! You\'ve won the game!</string>
+    <string name="please_refill">Please fill all word before checking the result.</string>
+</resources>
