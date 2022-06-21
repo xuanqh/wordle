@@ -71,4 +71,4 @@ com.restaff.wordle.presentation.wordgame
 - Step5: Run App
 
 Or to build and run the desktop application, run the following command
-./gradlew run
+# ./gradlew run
